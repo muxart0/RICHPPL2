@@ -4238,6 +4238,7 @@ table tbody td:first-child {
   flex-direction: column;
   justify-content: center;
   height: 80px;
+  margin-top: 5%;
   margin-right: 20px;
   transition: color 0.2996s, top 0.3s;
 }
@@ -5781,7 +5782,7 @@ select option[disabled] {
   height: 50px;
   flex: 0 0 50px;
   font-size: 48px;
-  color: #002137;
+  color: #0079c9;
   transition: all 0.25s;
 }
 
