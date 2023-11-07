@@ -4237,7 +4237,7 @@ table tbody td:first-child {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 43px;
+  height: 80px;
   margin-right: 20px;
   transition: color 0.2996s, top 0.3s;
 }
